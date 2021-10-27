@@ -49,4 +49,6 @@
 }
 a:hover{
     color:#0a58ca;
+    transform: scale(1.2);
+    transition: 1s;
 }
