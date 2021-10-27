@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text{
+    text-align: center;
+    font-family: -apple-system;
+    font-size: 22px;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-auto-rows: 300px;
+}
+.item{
+    position: relative;
+}
+.item .img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.item .titulo{
+    position: absolute;
+    background-color:#1d4389;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    font-size: 16pt;
+    font-family: -apple-system;
+}
+.titulo a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color:#0a58ca;
+}
