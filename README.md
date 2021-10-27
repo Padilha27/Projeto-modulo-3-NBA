@@ -10,16 +10,12 @@
 
 
 <div align="center">
-
-##
   
   
  ## Acessando o banco 
   
  Para acessar o <a href='https://drive.google.com/drive/folders/1mD_Azp8wzGfGd_SXSTSvm5N30cqGsnEy'> Banco de Dados </a> utilize os arquivos SQL para estruturar e as chaves para relacionar as tabelas(tratar os dados).
   
-
-##
   
 > ## Banco de dados - MySQL  
 > 
@@ -31,8 +27,6 @@
 <div align="center">
   
   
-
-##
 
 > ## Dashboard - Metabase
 >
