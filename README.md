@@ -22,6 +22,10 @@
 
 <div align="center">
   
+  
+## Acessando o banco 
+  
+ Para acessar o <a> Banco de Dados </a> utilize os arquivos SQL para estruturar e as chaves para relacionar as tabelas(tratar os dados)
 ##
 
 > ## Dashboard - Metabase
