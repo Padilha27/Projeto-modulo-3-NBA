@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# Analitics - Projeto Módulo 3
+# Analytics - Projeto Módulo 3
 
 </div>
 <div align="right">-Resilia</div>
