@@ -48,7 +48,7 @@
     color: #f0f3f7;
 }
 a:hover{
-    color:#0a58ca;
     transform: scale(1.2);
     transition: 1s;
+    color:#0a58ca;
 }
