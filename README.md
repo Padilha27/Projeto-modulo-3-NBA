@@ -3,14 +3,7 @@
 
 <div align="center">
   
-# Analytics - Projeto Módulo 3
-
-</div>
-<div align="right">-Resilia</div>
-
-
-<div align="center">
-  
+# Analytics - Projeto Módulo 3 | Resilia  
   
  ## Acessando o banco 
   
@@ -23,9 +16,6 @@
 ><p>No MySQL, após estruturarmos o esquema das tabelas, subimos os dados, verificamos e criamos as relações das tabelas. Com isso, o MySQL nos entrega essa representação visual do diagrama do nosso banco de dados sobre NBA.</p>
 ></div>
 ##
-
-<div align="center">
-  
   
 
 > ## Dashboard - Metabase
