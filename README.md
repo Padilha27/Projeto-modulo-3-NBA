@@ -16,7 +16,7 @@
 > ## Banco de dados - MySQL  
 > 
 ><img src="https://user-images.githubusercontent.com/87882835/139138031-9699f217-2b29-4c2d-aaf1-4240f60d7204.jpg" height="375px" width="395px">
-><p>No MySQL após estruturarmos o esquema das tabelas, subimos os dados, verificamos e criamos as relações das tabelas. Com isso o MySQL no esntrega essa representação visual do >diagrama do nosso banco de dados sobre NBA.</p>
+><p>No MySQL após estruturarmos o esquema das tabelas, subimos os dados, verificamos e criamos as relações das tabelas. Com isso o MySQL nos entrega essa representação visual do >diagrama do nosso banco de dados sobre NBA.</p>
 ></div>
 ##
 
