@@ -1,5 +1,9 @@
 body{
-    background-color: rgb(228, 226, 226);
+    background-color: rgb(255, 255, 255);
+}
+
+.nav-cor{
+    background-color: rgb(241, 239, 239);
 }
 
 .logo-nba{
@@ -7,15 +11,14 @@ body{
     height: 4em;
 }
 
-
 .img-caroussel{
     object-fit:contain; 
-    height: 90vh;
+    height: 80vh;
     width: 80vw;
 }
 
 .tamanho-caroussel{
-    height: 92vh;
+    height: 85vh;
 }
 .carousel-inner > .carousel-item > img {
     margin: 0 auto;
@@ -24,7 +27,7 @@ body{
   hr{
     
     height: 0.6em;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(170, 170, 170, 0.75), rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to right,rgb(255, 255, 255), rgba(0, 0, 0, 0.75), rgb(255, 255, 255));
 }
 
 ::-webkit-scrollbar{
@@ -42,7 +45,3 @@ body{
 ::-webkit-scrollbar-thumb:hover{
     background-color: #0a58ca;
 }
-html{
-    overflow-x:hidden;  
-}   
-  
