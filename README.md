@@ -13,6 +13,11 @@
 
 ##
   
+  
+ ## Acessando o banco 
+  
+ Para acessar o <a> Banco de Dados </a> utilize os arquivos SQL para estruturar e as chaves para relacionar as tabelas(tratar os dados)
+  
 > ## Banco de dados - MySQL  
 > 
 ><img src="https://user-images.githubusercontent.com/87882835/139138031-9699f217-2b29-4c2d-aaf1-4240f60d7204.jpg" height="375px" width="565px">
@@ -23,9 +28,7 @@
 <div align="center">
   
   
-## Acessando o banco 
-  
- Para acessar o <a> Banco de Dados </a> utilize os arquivos SQL para estruturar e as chaves para relacionar as tabelas(tratar os dados)
+
 ##
 
 > ## Dashboard - Metabase
