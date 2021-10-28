@@ -1,0 +1,25 @@
+ALTER TABLE `games` 
+ADD PRIMARY KEY (`GAME_ID`);
+
+ALTER TABLE `teams` 
+ADD PRIMARY KEY (`TEAM_ID`);
+
+#Table games_details
+
+ALTER TABLE `games_details` ADD FOREIGN KEY (`TEAM_ID`) REFERENCES `geams` (`TEAM_ID`);
+ALTER TABLE `games_details` ADD FOREIGN KEY (`GAME_ID`) REFERENCES `games` (`GAME_ID`);
+
+#Table players
+
+ALTER TABLE `players` ADD FOREIGN KEY (`TEAM_ID`) REFERENCES `teams` (`TEAM_ID`);
+
+#Table ranking
+
+ALTER TABLE `ranking` ADD FOREIGN KEY (`TEAM_ID`) REFERENCES `teams` (`TEAM_ID`);
+
+
+
+#TABLE games
+
+ALTER TABLE `games` ADD FOREIGN KEY (`VISITOR_TEAM_ID`) REFERENCES `teams` (`TEAM_ID`);
+ALTER TABLE `games` ADD FOREIGN KEY (`HOME_TEAM_ID`) REFERENCES `teams` (`TEAM_ID`);
