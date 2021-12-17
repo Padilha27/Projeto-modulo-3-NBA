@@ -23,7 +23,7 @@
 > ## Dashboard - Metabase
 >
 ><img src="https://user-images.githubusercontent.com/87882835/139329373-d88a32ca-0818-4543-aaaa-905dc52e204e.jpg" height="375px" width="565px">
-><p>Foi utlizado a plataforma Metabase para visualização gráfica das perguntas idealizadas pelo grupo.</p>
+><p>Foi utilizado a plataforma Metabase para visualização gráfica das perguntas idealizadas pelo grupo.</p>
 ><p>Visite nossa Gitpages para visualizar as perguntas</p>
 ></div>
 ##
